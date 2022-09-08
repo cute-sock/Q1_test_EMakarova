@@ -1,1 +1,103 @@
-<mxfile><diagram id="wFmATt112lnpvltkx4JJ" name="Q1_scheme for test task">1Vpdb+o4EP01ke59aJXYcQiPJJS7D93daqm028cABqINGJnQwv31O4nHifPBbWhD25WqYI/t8Xhy5njs1KLh5vhDRrv172LBE4vYi6NFxxYhDmU+/GSSk5KwgacEKxkvsFMpmMY/OQptlB7iBd9XOqZCJGm8qwrnYrvl87Qii6QUL9VuS5FUZ91FK94QTOdR0pT+HS/StZL6ZFDKf+Pxaq1ndryhatlEujOuZL+OFuLFENE7i4ZSiFSVNseQJ5nztF/UuMmZ1sIwybdplwFMDXiOkgOuzSJeAkODNejyVlnJGtvWyLHGjuWzrByoZ5g/Qb2dF0a6MEB59nR1GcYqObvVE4BRxhwo3JmTDseGqkn+9HNVjqGW5M9Qzz7Jq6p8lz+pIbENy8NcTi0SlkvAUUptUbaN6Sa6s4+LrVRD7R/oqcYODY+NtTa1BFNbaEzhGGtUaonh6qIDaax0pDu4DeNDw3s2Lrw0lXQ1o/SVmiIwWseXGKm0dXH7HRqGnR1DGOCrz54+LqfyOrR5aJKJAdJms2ktgtyEawlOFbvpSRNCyo95zKSbBAQOFPepFP/yUCRCgmQrttAzWMZJUhPtd9E83q5AwMrao9iB4AasosHLOk75FOTZVC/ApyATz1wuk5w31vFiwbcgk+KwXfAsrO3CQpMHkBpgJBhriJAXfnCx4ak8QRfdaiNHIUlTrL6UjEcHKFubbKe5LUKWXRWqSyKCAnJROy8NGi7mC6BgrKLvDHfzY5z+k639lmHtyWgZH9EteeX0mo/24iDnOC1uTNnsv3Sa5EmUxs/VDaLNAzj0QcQwa+FswryKs4lfc2IayRVPcVTNj4UZnVzrnaX8mcb39HH016MB/NlZ4INq2HT5GZwaL8iEvkXoZBJQz+sJqMOq7xyvidQClCZS6z5+C1Ad8lWQOvwcpLp2N6SOpIxORrdd1mHffR7q27X3ojS+NQyGjTCYRptdwtFOjAhZT1BKCTB8RtwssNhY5ZXRyenWjTS7qbXPgcSz39wg7VgDWiXJOxeHnG2Hod3X3uD7t6ydsMygo+xKQed+laBz6OdEHatvsv3tD+StznUM15aObnduce75cp523Wra49KreVovyeCgJUQrsb8pi2KDCdoYKG8nHtAWVHCvRh66vefbVRaH7cNAGnxvvGZ4KbusCG8iShKeiJWMNtmhjMsYlsVlve2hbHidjI5cn+SvTk5O+w5lUhNryQe8PqjJuzB6ukXCtVFP3SqdswGrqlCh2EB9U5FTVVSEU8/pAWXtBp+1i7Xb1Vc64QwasdxIq//4s1tODe/6PprxpAqUKIlXcNAbzwEbecRlERHPo2SEDRs4CmY6Asn38c9oluvLUIW+BOUqC2nFmT4W1MOsuEVDhZZ5UdUWfvYtcYduxdk3WH0nSLUaPUIsl3v+bhL2L93utqDbSCay6pPZVu54eU1veUUOcsE22W1nRGSryELZB50Git1RhyHrFu4NRcypKRrWFJ0hoEt5w69NU6WNd9OATst+RQNPd9MvzAN+XzxwA0Qw8Kuse0P6IYLaJnPD6DWYoXk5Hi+z7AyPegwyKTbWmVZLKqZyN9pMtORabGaH/ece4bwzJwozS/Lb7vecHtIkQi9l3Y85ZHzUJUrtbtUltXSrx0NG86ID7yBYoK4b8nsJhdUKspsnB7yeCPK/2uv7RCTX7qmHLUB2W4A86APHl6b7H4NjDadr49gb1A/LV8Nxy6fKyoVdQcv5NyoF8e9NCD9IMCUf8q3oc+YYvBDzwyb38ms0PVPXcvezM2in1BtOJv2gvX4/0Qr3Nt6uJ1RvgnuHU87/6+NBHcF0yJru7OnjAVTLL/sqBMr/j6B3/wE=</diagram></mxfile>
+<mxfile host="65bd71144e">
+    <diagram id="wFmATt112lnpvltkx4JJ" name="Q1_scheme for test task">
+        <mxGraphModel dx="1358" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="5" value="&lt;h1&gt;Схема к задаче.&lt;/h1&gt;&lt;p&gt;Написать программу, которая из имеющенрся массива строк формирует массив, длина строк в котором больше или равна трем.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="30" width="370" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="6" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="132" y="280" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6" value="&lt;b&gt;START&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFB366;" parent="1" vertex="1">
+                    <mxGeometry x="72" y="160" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="9" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="132" y="400" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="132" y="380"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="9" value="SampleArray&lt;br&gt;&lt;br&gt;string[] array1&lt;br&gt;string[] array2&lt;br&gt;int count = 0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00CC00;" parent="1" vertex="1">
+                    <mxGeometry x="64.5" y="280" width="135" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="13" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="132" y="520" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="13" value="for (int i = 0;&lt;br&gt;i &amp;lt; array1.Length;&lt;br&gt;i++)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#00CC00;" parent="1" vertex="1">
+                    <mxGeometry x="57" y="400" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" style="edgeStyle=none;html=1;shadow=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1" target="13" source="15">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="16" y="575" as="sourcePoint"/>
+                        <mxPoint x="-14" y="440" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="26" y="575"/>
+                            <mxPoint x="26" y="430"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="17" value="&lt;b&gt;NO&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="16" vertex="1" connectable="0">
+                    <mxGeometry x="0.2494" y="-4" relative="1" as="geometry">
+                        <mxPoint x="-4" y="35" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="18" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="15" target="19" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="306" y="550" as="targetPoint"/>
+                        <mxPoint x="386" y="590" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="336" y="575"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="20" value="&lt;b&gt;YES&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="18" vertex="1" connectable="0">
+                    <mxGeometry x="-0.2785" y="-2" relative="1" as="geometry">
+                        <mxPoint x="35" y="-53" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="15" value="if (array1[i].Length &amp;lt; = 3)" style="rhombus;whiteSpace=wrap;html=1;fillColor=#00CC00;" parent="1" vertex="1">
+                    <mxGeometry x="42" y="520" width="180" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="19">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="196" y="435" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="30" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.006;entryY=0.389;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="19" target="25">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="&lt;b&gt;NO&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="30">
+                    <mxGeometry x="0.4186" y="-1" relative="1" as="geometry">
+                        <mxPoint x="-17" y="-1" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="19" value="array2[count] = array1[i]&lt;br&gt;count++" style="whiteSpace=wrap;html=1;fillColor=#00CC00;" parent="1" vertex="1">
+                    <mxGeometry x="266" y="400" width="140" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="25" target="27">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="SampleArray (array1, array2)&lt;br&gt;PrintArray(array2)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#3369FF;" parent="1" vertex="1">
+                    <mxGeometry x="470" y="400" width="180" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="&lt;b&gt;END&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFB366;" parent="1" vertex="1">
+                    <mxGeometry x="690" y="403.75" width="120" height="82.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="&lt;b&gt;YES&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="306" y="470" as="geometry">
+                        <mxPoint x="-76" y="-34" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
